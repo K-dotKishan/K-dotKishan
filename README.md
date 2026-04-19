@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=250&section=header&text=Kishan%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20MERN%20Specialist&descAlignY=55&descSize=20" width="100%" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;MERN+Stack+Enthusiast;IIT+BHU+Hackathon+Runner-Up;200%2B+DSA+Problems+Solved" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;MERN+Stack+Enthusiast;IIT+BHU+Hackathon+Runner-Up;250%2B+DSA+Problems+Solved" alt="Typing SVG" />
   </p>
 </div>
 
