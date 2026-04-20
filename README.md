@@ -14,8 +14,8 @@
     <td width="60%" style="vertical-align: top;">
       <p>Hi there! I'm <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
       <ul>
-        <li>🔭 <b>Currently Building:</b> Occamy Bioscience Field Management System</li>
-        <li>🥈 <b>Achievement:</b> Secured 2nd Rank in <b>HaXplore (IIT BHU)</b></li>
+        <li>💼 <b>Web Developer Intern:</b> Currently building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
+        <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
         <li>🧠 <b>DSA:</b> 250+ problems solved on LeetCode/GFG</li>
         <li>⚡ <b>Core:</b> MERN Stack & Scalable System Design</li>
       </ul>
@@ -37,11 +37,12 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/K-dotKishan/Occamy-Bioscience">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K-dotKishan&repo=Occamy-Bioscience&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F7FF" />
+  <a href="https://github.com/K-dotKishan/occamy-hackathon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K-dotKishan&repo=occamy-hackathon&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F7FF" />
   </a>
-  <a href="https://github.com/K-dotKishan/Jharkhand-Tourism">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K-dotKishan&repo=Jharkhand-Tourism&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00F7FF" />
+  <br/>
+  <a href="https://occamy-frontend.vercel.app/login" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-Occamy%20Frontend-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </div>
 
@@ -72,7 +73,7 @@
 
 ## 🤝 Connect With Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/kishansingh123/">
+  <a href="https://www.linkedin.com/in/kishan-singh">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kishansingh2882004@gmail.com">
