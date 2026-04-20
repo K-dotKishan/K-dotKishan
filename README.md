@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=300&section=header&text=Kishan%20Singh&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20MERN%20Specialist&descAlignY=55&descSize=22&fontColor=FFFFFF" width="100%" />
 
   <!-- 3D Animated Glowing Badge -->
@@ -59,41 +59,6 @@
 
 <br/>
 
-## 🌐 My Digital Space - Portfolio Website
-<div align="center">
-  <!-- Animated glowing badge for portfolio -->
-  <a href="https://portfolio2-five-kappa-53.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-✨%20VISIT%20MY%20PORTFOLIO%20✨-00F7FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117&color=00F7FF" 
-         alt="Portfolio Badge" 
-         style="border-radius: 30px; box-shadow: 0 0 20px rgba(0,247,255,0.3);" />
-  </a>
-  
-  <br/><br/>
-  
-  <!-- 3D-style animated button alternative -->
-  <a href="https://portfolio2-five-kappa-53.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=350&height=30&lines=💻+kishansingh.dev+💻;🚀+Live+Portfolio+🚀;📁+See+My+Best+Work+📁" alt="Portfolio Typing Animation" />
-  </a>
-  
-  <!-- Portfolio preview section -->
-  <details>
-    <summary><b>📸 Quick Portfolio Preview</b></summary>
-    <br/>
-    <p align="center">
-      <b>✨ Your portfolio features:</b><br/><br/>
-      🛠️ <b>Technical Skills</b> | 📁 <b>Projects Showcase</b> | 🏆 <b>Achievements & Certifications</b> | 📧 <b>Contact Section</b>
-    </p>
-    <p align="center">
-      <i>Built with modern web technologies and a clean, responsive design.</i>
-    </p>
-    <p align="center">
-      <b>📜 Certifications include:</b> Full Stack Development (Infosys Springboard), Human-Computer Interaction (NPTEL), Responsive Web Design (FreeCodeCamp)
-    </p>
-  </details>
-</div>
-
-<br/>
-
 ## 📊 Analytics & Activity
 <div align="center">
   <!-- 3D Animated GitHub Stats -->
@@ -128,13 +93,13 @@
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
-       </td>
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/GFG-150%2B%20Solved-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" />
-       </td>
+      </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Codeforces-500%2B%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" />
-       </td>
+      </td>
     </tr>
   </table>
 </div>
@@ -152,8 +117,11 @@
   <a href="https://github.com/K-dotKishan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://portfolio2-five-kappa-53.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117" />
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://www.instagram.com/yourhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
   </a>
 </div>
 
@@ -174,3 +142,6 @@
   <br/>
   <sub><i>"Code is like poetry — every line should serve a purpose."</i></sub>
 </div>
+
+<!-- Optional: Add a 3D rotating cube or particle effect using external service -->
+<!-- You can embed a 3D model from Sketchfab or use Lottie animations if needed -->
