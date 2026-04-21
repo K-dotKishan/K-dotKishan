@@ -45,7 +45,7 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/K-dotKishan/occamy-hackathon">
+  <a href="https://github.com/K-dotKishan/occamy-field-operations-system">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K-dotKishan&repo=occamy-hackathon&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&show_owner=true" />
   </a>
   <a href="https://github.com/K-dotKishan">
