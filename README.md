@@ -16,7 +16,7 @@
       <ul>
         <li>💼 <b>Web Developer Intern:</b> Building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
         <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
-        <li>🧠 <b>DSA:</b> 300+ problems solved on LeetCode/GFG</li>
+        <li>🧠 <b>DSA:</b> 350+ problems solved on LeetCode/GFG</li>
         <li>⚡ <b>Core:</b> MERN Stack & Scalable System Design</li>
         <li>🎯 <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
       </ul>
