@@ -12,7 +12,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td width="55%" style="vertical-align: top; border: none;">
-      <p>Hi there! I'm <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
+      <p>Hi there! I'm  <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
       <ul>
         <li>💼 <b>Web Developer Intern:</b> Building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
         <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
