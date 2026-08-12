@@ -18,7 +18,7 @@
         <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
         <li>🧠 <b>DSA:</b> 350+ problems solved on LeetCode/GFG</li>
         <li>⚡ <b>Core:</b> MERN Stack & Scalable System Design</li>
-        <li>🎯 <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
+        <li>🎯  <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
       </ul>
     </td>
     <td width="45%" align="center" style="border: none;">
