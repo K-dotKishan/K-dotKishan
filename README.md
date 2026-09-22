@@ -9,25 +9,15 @@
 <br/>
 
 ## ✨ About Me 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="55%" style="vertical-align: top; border: none;">
-      <p>Hi there! I'm  <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
-      <ul>
-        <li>💼 <b>Web Developer Intern:</b>  Building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
-        <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
-        <li>🧠 <b>DSA:</b> 400+  problems solved on LeetCode/GFG</li>
-        <li>⚡ <b>Core:</b> MERN Stack & Scalable System Design</li>
-        <li>🎯  <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-dotKishan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=15&size_weight=0.5&count_weight=0.5" width="100%" />
-      <br/><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=K-dotKishan&theme=darkhub&no-frame=true&row=1&column=4&margin-w=15&margin-h=15" width="100%" />
-    </td>
-  </tr>
-</table>
+<p>Hi there! I'm <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
+
+<ul>
+  <li>💼 <b>Web Developer Intern:</b> Building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
+  <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
+  <li>🧠 <b>DSA:</b> 400+ problems solved on LeetCode/GFG</li>
+  <li>⚡ <b>Core:</b> MERN Stack & Scalable System Design</li>
+  <li>🎯 <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
+</ul>
 
 <br/>
 
@@ -120,7 +110,6 @@ Built a platform where farmers can easily access useful tools and information fo
   <br/>
   <sub><i>"Code is like poetry — every line should serve a purpose."</i></sub>
 </div>
-
 
 
 <!-- <div align="center">
