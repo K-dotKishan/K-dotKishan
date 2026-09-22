@@ -6,20 +6,19 @@
   <img src="https://komarev.com/ghpvc/?username=K-dotKishan&label=PROFILE+VIEWS&style=for-the-badge&color=00F7FF" alt="Profile Views" />
 </div>
 
-
 <br/>
 
 ## ✨ About Me 
 <table align="center" style="border: none;">
   <tr>
     <td width="55%" style="vertical-align: top; border: none;">
-      <p>Hi there! I'm  <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
+      <p>Hi there! I'm <b>Kishan</b>, a final-year student at <b>Lovely Professional University</b>. I'm a developer who loves turning complex problems into elegant, scalable code.</p>
       <ul>
-        <li>💼 <b>Web Developer Intern:</b>  Building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
+        <li>💼 <b>Web Developer Intern:</b> Building real-time live location tracking of field officers and distributors at <b>Occamy Bioscience</b></li>
         <li>🥈 <b>Achievement:</b> Secured 2nd Rank (Runner-Up) in <b>HaXplore (IIT BHU)</b></li>
-        <li>🧠 <b>DSA:</b> 400+  problems solved on LeetCode/GFG</li>
+        <li>🧠 <b>DSA:</b> 400+ problems solved on LeetCode/GFG</li>
         <li>⚡ <b>Core:</b> MERN Stack & Scalable System Design</li>
-        <li>🎯  <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
+        <li>🎯 <b>Current Focus:</b> WebSockets, Real-time systems, and Cloud deployment</li>
       </ul>
     </td>
     <td width="45%" align="center" style="border: none;">
@@ -42,10 +41,11 @@
 ## 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/K-dotKishan/occamy-field-operations-system">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K-dotKishan&repo=occamy-field-operations-system&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&show_owner=true" width="48%" />
+    <img src="https://img.shields.io/badge/Repository-occamy--field--operations--system-00F7FF?style=for-the-badge&logo=github&labelColor=0D1117" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/K-dotKishan/FARMERS-EMPOWERMENT--1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=K-dotKishan&repo=FARMERS-EMPOWERMENT--1&theme=tokyonight&border_radius=15&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&show_owner=true" width="48%" />
+    <img src="https://img.shields.io/badge/Repository-FARMERS--EMPOWERMENT--1-00F7FF?style=for-the-badge&logo=github&labelColor=0D1117" />
   </a>
   <br/><br/>
   <a href="https://occamy-frontend.vercel.app/login" target="_blank">
@@ -73,7 +73,7 @@ Built a platform where farmers can easily access useful tools and information fo
 
 ## 📊 Analytics & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=K-dotKishan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=15&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="190px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=K-dotKishan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_radius=15&count_private=true&include_all_commits=true" height="190px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-dotKishan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=888888&border_radius=15" height="190px" />
 </div>
 
