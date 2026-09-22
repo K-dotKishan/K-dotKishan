@@ -51,7 +51,7 @@ Built a platform where farmers can easily access useful tools and information fo
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/LeetCode-250%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/GFG-150%2B%20Solved-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" />
